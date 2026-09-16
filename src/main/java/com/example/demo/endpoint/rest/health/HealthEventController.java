@@ -1,7 +1,7 @@
-package com.example.demo.endpoint.rest.controller.health;
+package com.example.demo.endpoint.rest.health;
 
-import static com.example.demo.endpoint.rest.controller.health.PingController.KO;
-import static com.example.demo.endpoint.rest.controller.health.PingController.OK;
+import static com.example.demo.endpoint.rest.health.PingController.KO;
+import static com.example.demo.endpoint.rest.health.PingController.OK;
 import static java.util.UUID.randomUUID;
 
 import com.example.demo.PojaGenerated;
