@@ -1,4 +1,4 @@
-package com.example.demo.endpoint.rest.controller.health;
+package com.example.demo.endpoint.rest.health;
 
 import com.example.demo.PojaGenerated;
 import com.example.demo.repository.DummyRepository;

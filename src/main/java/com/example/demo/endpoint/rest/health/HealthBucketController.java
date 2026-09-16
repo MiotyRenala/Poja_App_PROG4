@@ -1,4 +1,4 @@
-package com.example.demo.endpoint.rest.controller.health;
+package com.example.demo.endpoint.rest.health;
 
 import static com.example.demo.file.hash.FileHashAlgorithm.NONE;
 import static java.io.File.createTempFile;
